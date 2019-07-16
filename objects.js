@@ -14,4 +14,4 @@ function removeFromPlaylist(obj, key) {
   return playlist;
 }
 
-removeFromPlaylist(playlist, "Lost Tribe");
+removeFromPlaylist(playlist, "Slowdive");
