@@ -1,2 +1,2 @@
-var playlist = {};
-Object.assign({playlist}, {"Aphex Twin": "Flim"})
+var playlist = {"Aphex Twin": "Flim"};
+//Object.assign({playlist}, {"Aphex Twin": "Flim"})
