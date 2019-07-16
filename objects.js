@@ -9,8 +9,8 @@ function updatePlaylist(obj, key, value) {
 
 updatePlaylist(playlist, "Lost Tribe", Gamemaster);
 
-function removeFromPlaylist(obj, key) {
-  delete obj.key;
+function removeFromPlaylist(playlist, artistName) {
+  delete playlist.artistName;
   return playlist;
 }
 
